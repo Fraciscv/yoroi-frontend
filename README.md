@@ -104,6 +104,13 @@ $ npm install
 # At this point you can go back to Development steps. 
 ```
 
+
+       __,------,
+       __|  /\_/\
+       _~|_( x .x)
+       _ ""  ""   
+
+
 ## LICENSE
 
 [MIT](LICENSE)
